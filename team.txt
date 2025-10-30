@@ -1,2 +1,3 @@
-Leader: Dhimas
-Staff: -
+Leader: Dhimas Primajaya
+Staff: Dede, Daffa
+Done.
